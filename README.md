@@ -1,4 +1,7 @@
 # Assets-Threats-and-Vulnerabilities
+In this course, I build an understanding of the wide range of assets organizations must protect. Explored many of the most common security controls used to protect valuable assets from risk. Also discovered the variety of ways assets are vulnerable to threats by adopting an attacker mindset.
+
+![image](https://github.com/user-attachments/assets/2bb181b0-91b0-4676-8dde-0ff475e69a04)
 
 
 ## Modules
