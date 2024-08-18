@@ -16,3 +16,6 @@ Build an understanding of the vulnerability management process. Learned about co
 
 ### Module 4: Threats to asset security
 Explored common types of threats to digital asset security. Examine the tools and techniques used by cybercriminals to target assets. In addition, introduced to the threat modeling process and learn ways security professionals stay ahead of security breaches.
+
+## Course Certificate
+![image](https://github.com/user-attachments/assets/e6f7b7f2-8f32-452f-a7cd-6a99aa0e2ac3)
